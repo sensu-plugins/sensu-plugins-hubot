@@ -35,7 +35,6 @@
 #   }
 # }
 #
-require 'rubygems' if RUBY_VERSION < '1.9.0'
 require 'net/http'
 require 'sensu-handler'
 require 'timeout'
