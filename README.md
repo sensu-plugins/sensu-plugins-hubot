@@ -10,7 +10,7 @@
 ## Functionality
 
 ## Files
- * bin/handler-hubot
+ * bin/handler-hubot.rb
 
 ## Usage
 
